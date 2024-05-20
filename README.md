@@ -1,5 +1,5 @@
 # エンチャントデータパック
-[-日本語-](https://github.com/mckomaken/enchantment/blob/master/README.md) | [-English-]()
+[-日本語-](https://github.com/mckomaken/enchantment/blob/master/README.md)
 
 
 ### 注意!
