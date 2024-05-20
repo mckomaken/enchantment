@@ -10,9 +10,9 @@
 
 ### エンチャント一覧
 TODO...
-
+<br>
 ### 貢献者
-
-
+TODO...
+<br>
 ©2024 マイクラコマンド研究所<br>
 このリポジトリの内容物は [GNU GPUv3](https://choosealicense.com/licenses/gpl-3.0/) の下で公開されています
